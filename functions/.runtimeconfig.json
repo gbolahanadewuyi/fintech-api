@@ -1,0 +1,10 @@
+{
+  "gmail": {
+    "password": "Jehdvets12",
+    "email": "jehadi@onecashgh.com"
+  },
+  "twilio": {
+    "accountsid": "AC8041d4ba2011f6d33106ecb209eebd48",
+    "authtoken": "e0c3fbdb422995984a8bd6e60886b2d5"
+  }
+}

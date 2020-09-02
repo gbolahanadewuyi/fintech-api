@@ -1,0 +1,66 @@
+[
+  { "description":"MTN Daily Data Bundle 50MB",
+    "productCode": "MTNDLY50MB",
+    "price": 200
+  },
+  {
+    "description":"MTN Daily Data Bundle 120MB",
+    "productCode": "MTNDLY120MB",
+    "price": 200
+  },
+  {
+    "description":"MTN Weekly Data Bundle 60MB",
+    "productCode": "MTNWKLY60MB",
+    "price": 200
+  },
+  {
+    "description":"MTN Weekly Data Bundle 180MB",
+    "productCode": "MTNWKLY180MB",
+    "price": 300
+  },
+  {
+    "description":"MTN Weekly Data Bundle 300MB",
+    "productCode": "MTNWKLY300MB",
+    "price": 500
+  },
+  {
+    "description":"MTN Monthly Data Bundle 400MB",
+    "productCode": "MTNMTH400MB",
+    "price": 1000
+  },
+  {
+    "description":"MTN Monthly Data Bundle 1GB",
+    "productCode": "MTNMTH1GB",
+    "price": 2000
+  },
+  {
+    "description":"MTN Monthly Data Bundle 2.5GB",
+    "productCode": "MTNMTH2500MB",
+    "price": 4000
+  },
+  {
+    "description":"MTN Monthly Data Bundle 4GB",
+    "productCode": "MTNMTH4GB",
+    "price": 6000
+  },
+  {
+    "description":"MTN Monthly Data Bundle 6GB",
+    "productCode": "MTNMTH6GB",
+    "price": 8000
+  },
+  {
+    "description":"MTN Monthly Data Bundle 10GB",
+    "productCode": "MTNMTH10GB",
+    "price": 12000
+  },
+  {
+    "description":"MTN Monthly Data Bundle 15GB",
+    "productCode": "MTNMTH15GB",
+    "price": 15000
+  },
+  {
+    "description":"MTN Monthly Data Bundle 200GB",
+    "productCode": "MTNMTH200GB",
+    "price": 39900
+  }
+]

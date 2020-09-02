@@ -1,0 +1,25 @@
+[
+  {
+    "description": "MTN Fiber Bundle 6GB",
+    "productCode": "MTNFB6GB25",
+    "price": 2500
+  },
+
+  {
+    "description": "MTN Fiber Bundle 10GB",
+    "productCode": "MTNFB10GB40",
+    "price": 4000
+  },
+
+  {
+    "description": "MTN Fiber Bundle 45GB",
+    "productCode": "MTNFB45GB125",
+    "price": 12500
+  },
+
+  {
+    "description": "MTN Fiber Bundle 225GB",
+    "productCode": "MTNFB225GB250",
+    "price": 25000
+  }
+]
